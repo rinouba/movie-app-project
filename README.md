@@ -12,6 +12,7 @@ A movie search web application built using **React** and **Redux**. This app all
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/movie-search-app.git
+   
   ## Link To Review :
-2 : "https://movie-app-react-1ny.pages.dev"
+2 : "https://632023e3.movie-app-react-1ny.pages.dev/"
 
